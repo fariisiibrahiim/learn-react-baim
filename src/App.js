@@ -1,23 +1,24 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+
+import logo from "./logo.svg";
+import "./App.css";
+import Greeting from "./components/greeting";
+import ImageAlbum from "./components/ImageAlbum";
+import witcherLogo from "./components/assets/logos/cleanMedallion.png";
+import Counter from "./components/counter";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <Greeting name="Baim" /> {/*ini adalah komponent */}
+        <ImageAlbum imageSrc={witcherLogo} />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This Wolf Need's Power!
+          <br /> Click this button below to help him!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Counter />
+        <img src={logo} className="App-logo" alt="logo" />
       </header>
     </div>
   );

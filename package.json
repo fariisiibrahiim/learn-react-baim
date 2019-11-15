@@ -27,5 +27,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "Making a Counter With React JS",
+  "main": "index.js",
+  "author": "fariisiibrahiim <farisibrahmi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }

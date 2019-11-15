@@ -20,3 +20,23 @@
 .App-link {
   color: #09d3ac;
 }
+
+.counter-button {
+  border: 1px solid;
+  border-color: pink;
+  background: transparent;
+  color: pink;
+  font-size: 24px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+.counter-button :hover {
+  border: 1px solid;
+  border-color: green;
+  color: green;
+  background-color: #75d5ac;
+}
+
+.big {
+  font-size: 36px;
+}
