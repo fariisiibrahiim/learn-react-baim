@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/learn-react-baim/static/css/main.60808692.chunk.css",
+    "main.js": "/learn-react-baim/static/js/main.ec180960.chunk.js",
+    "main.js.map": "/learn-react-baim/static/js/main.ec180960.chunk.js.map",
+    "runtime-main.js": "/learn-react-baim/static/js/runtime-main.4d4d0c10.js",
+    "runtime-main.js.map": "/learn-react-baim/static/js/runtime-main.4d4d0c10.js.map",
+    "static/js/2.41fe28f7.chunk.js": "/learn-react-baim/static/js/2.41fe28f7.chunk.js",
+    "static/js/2.41fe28f7.chunk.js.map": "/learn-react-baim/static/js/2.41fe28f7.chunk.js.map",
+    "index.html": "/learn-react-baim/index.html",
+    "precache-manifest.848cedb2527ab9ea4cfd9579aca09af7.js": "/learn-react-baim/precache-manifest.848cedb2527ab9ea4cfd9579aca09af7.js",
+    "service-worker.js": "/learn-react-baim/service-worker.js",
+    "static/css/main.60808692.chunk.css.map": "/learn-react-baim/static/css/main.60808692.chunk.css.map",
+    "static/media/cleanMedallion.png": "/learn-react-baim/static/media/cleanMedallion.d3ecca80.png",
+    "static/media/logo.svg": "/learn-react-baim/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d4d0c10.js",
+    "static/js/2.41fe28f7.chunk.js",
+    "static/css/main.60808692.chunk.css",
+    "static/js/main.ec180960.chunk.js"
+  ]
+}
